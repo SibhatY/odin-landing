@@ -41,3 +41,18 @@ html, body {
     text-decoration: none;
     
 }
+
+
+
+
+
+
+
+
+
+.hero-container {
+
+    display: flex;
+    flex-direction: column;
+
+}

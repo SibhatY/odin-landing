@@ -1,2 +1,2 @@
 # odin-landing
-Landing page project for testing Flexbox
+Landing page project for learning Flexbox
