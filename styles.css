@@ -1,0 +1,43 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.head-container {
+
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-around;
+}
+
+
+.headlogo {
+    font-size: 24px;
+    color: #f9faf8;
+    align-self: center;
+    padding: 10px 20px;
+    
+    
+}
+
+.links-container {
+
+    display: flex;
+    justify-content:space-around;
+    padding: 10px 20px;
+    gap: 16px;
+
+}
+
+.headlinks {
+    font-size: 18px;
+    align-self: center;
+    
+}
+
+.headlinks a {
+    color: #e5e7eb;
+    text-decoration: none;
+    
+}
