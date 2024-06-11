@@ -10,3 +10,5 @@ This landing page is part of my learning journey with The Odin Project. This pag
 - **CSS**: Styles the webpage. The stylesheet `styles.css` includes details for layout, typography, and color scheme.
 
 
+[Odin Landing Page](https://sibhaty.github.io/odin-landing/)
+
