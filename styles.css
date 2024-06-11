@@ -188,6 +188,9 @@ html, body {
 
 
 
+/* Quote section */
+
+
 .quote-section  {
 
     display: flex;
@@ -203,22 +206,14 @@ html, body {
     font-style: italic;
     color: #1F2937;
     background-color: #e5e7eb;
-    padding: 100px;
+    padding: 72px;
+    padding-bottom: 72px;
     justify-content: center;
 
     
-    
-    
 }
 
-span {
-    color: green;
-    align-self:flex-end;
-    white-space: nowrap;
-    background-color: purple;
 
-    top: 64px;
-}
 
 .quote p {
 
@@ -228,3 +223,64 @@ span {
     text-align: right;
     padding-right: 100px;
 }
+
+
+
+
+
+/* Call to Action section */
+
+.cta-container {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 40px 80px;
+  
+    max-width: 800px;
+    margin: 74px auto;
+    border-radius: 10px;
+}
+
+.cta-text {
+
+    max-width: 70%;
+    font-size: 16px;
+}
+
+
+.cta-button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 10px;
+    
+    
+}
+
+.cta-text span {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+/* Footer Section */
+
+.foot-container {
+
+    background-color: #1F2937;
+    color: #f9faf8;
+    padding: 40px 60px;
+
+    
+}
+
+.foot-text {
+
+    text-align: center;
+}
+
